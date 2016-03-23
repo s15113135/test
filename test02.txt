@@ -1,1 +1,6 @@
-hello
+1.首先進到git
+2.輸入這兩行設定基本資料
+  git config --global user.name "s15113135"
+  git config --global user.email "s15113135@stu.edu.tw"
+3.輸入位置
+  git clone https://github.com/s15113135/test.git
