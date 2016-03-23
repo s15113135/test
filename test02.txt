@@ -1,6 +1,25 @@
 1.首先進到git
+
 2.輸入這兩行設定基本資料
   git config --global user.name "s15113135"
   git config --global user.email "s15113135@stu.edu.tw"
+
 3.輸入位置
   git clone https://github.com/s15113135/test.git
+
+4.在資料夾中建立一個你的程式
+  ex:test02.txt (記事本)
+
+5.追蹤你的程式
+  git add test02.txt
+
+6.查看現在git狀態
+  git status
+
+  你會發現以下：
+  On branch master
+  Your branch is up-to-date with 'origin/master'.
+  //這裡會有一些被追蹤的程式，如果沒有東西代表沒有程式被追蹤
+  nothing to commit, working directory clean
+7.
+
