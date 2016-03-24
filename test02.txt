@@ -45,3 +45,5 @@
 
 13.上傳程式
    git push 
+
+   首次 git push 會要你輸入你的 github 帳號密碼 輸入完後即可上傳
