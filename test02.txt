@@ -1,3 +1,9 @@
-ps1:想取消追蹤(add)
+
+PS1:想取消追蹤(add)
     git reset HEAD 檔案名稱
-ps2:
+
+PS2:查看歷史更動紀錄
+    → git log
+    → git log --pretty=oneline
+
+PS3:
