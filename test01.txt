@@ -1,4 +1,4 @@
-﻿1.首先進到git
+﻿1.首先進到git 
 
 2.輸入這兩行設定基本資料
   git config --global user.name "s15113135"
